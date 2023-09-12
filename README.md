@@ -1,4 +1,4 @@
-# hotel-management-system-using-sql-and-python
+# Hotel-management-system-using-sql-and-python
 
 
 
